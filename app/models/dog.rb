@@ -8,4 +8,5 @@ class Dog
   end
   def all? { |ins|  }
     @@ins
+  end
 end
