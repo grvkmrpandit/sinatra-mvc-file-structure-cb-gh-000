@@ -6,7 +6,7 @@ class Dog
     @breed=breed
     @age=age
   end
-  def all? { |ins|  }
+  def all
     @@ins
   end
 end
